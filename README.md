@@ -1,5 +1,5 @@
 Project Title
-# Hello-World-txt-file
+# Hello-World.rb
 
 This was the first web server we've created. 
 Even though it is very basic, it's a memorable moment. 
